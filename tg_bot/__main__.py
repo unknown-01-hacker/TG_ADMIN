@@ -170,8 +170,12 @@ def start(bot: Bot, update: Update, args: List[str]):
                     [
                         [
                             InlineKeyboardButton(
-                                text="Add Kigyō to your group",
+                                text="➕Add to your group",
                                 url="t.me/{}?startgroup=true".format(bot.username),
+                            ),
+                             InlineKeyboardButton(
+                                text="➕Add to your group",
+                                url="t.me/{}?startgroup=true".format(bot.username)
                             )
                         ]
                     ]
