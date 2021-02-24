@@ -39,7 +39,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 Hi {}, my name is {}! 
-I am an Anime themed group management bot with some fun extras [;)](https://telegra.ph/file/095d7e696096e21b06447.jpg)
+I am an Anime themed group management bot with some fun extras [;)](https://telegra.ph/file/a18e58ce3a9e053163d15.jpg)
 
 You can find the list of available commands with /help.
 
@@ -50,7 +50,7 @@ This bot group is at @Pruthvi_RJ_Group
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
-I'm a part of [*@Pruthvi_RJ_Group*]
+I'm a part of [*RJ Movies Request Group*](https://t.me/Pruthvi_RJ_Group)
 Have a look at the following for an idea of some of \
 the things I can help you with.
 *Main* commands available:
